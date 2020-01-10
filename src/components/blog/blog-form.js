@@ -14,7 +14,7 @@ export default class BlogForm extends Component {
       blog_status: "",
       content: "",
       featured_image: "",
-      apiUrl: "https://jordan.devcamp.space/portfolio/portfolio_blogs",
+      apiUrl: "https://rafaelpinon.devcamp.space/portfolio/portfolio_blogs",
       apiAction: "post"
     };
 
@@ -201,7 +201,7 @@ export default class BlogForm extends Component {
           )}
         </div>
 
-        <button className="btn">Save</button>
+        <button className="btn">Guardar</button>
       </form>
     );
   }
