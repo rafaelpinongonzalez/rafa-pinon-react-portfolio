@@ -1,0 +1,19 @@
+.homepage-wrapper {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+}
+
+.homepage-wrapper .filter-links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.homepage-wrapper .filter-links .btn {
+  width: 100%;
+}
+/*# sourceMappingURL=home.css.map */

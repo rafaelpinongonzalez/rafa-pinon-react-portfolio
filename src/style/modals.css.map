@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,oBAAoB;AACpB,gCAAgC,CAAC;EAC/B,MAAM,EAAE,GAAG;CACZ",
+    "sources": [
+        "modals.scss"
+    ],
+    "names": [],
+    "file": "modals.css"
+}
