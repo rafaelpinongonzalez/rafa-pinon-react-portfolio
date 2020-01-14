@@ -1,7 +1,7 @@
-/* eslint-disable global-require */
+/ * eslint-disable global-require * /
 
-// polyfills and vendors
+// polyfills y vendedores
 
-if (!window._babelPolyfill) {
-  require('babel-polyfill');
+if  ( ! window . _babelPolyfill )  {
+  require ( 'babel-polyfill' ) ;
 }
